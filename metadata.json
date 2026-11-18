@@ -1,0 +1,6 @@
+{
+  "name": "Sarawak Probate & Estate Duty Assessment",
+  "description": "Historical Sarawak probate and estate duty statutory calculator producing bilingual Formula Pengiraan assessment sheets across 1933–1992+ enactments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
